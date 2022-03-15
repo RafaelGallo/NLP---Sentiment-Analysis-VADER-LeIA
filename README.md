@@ -47,7 +47,7 @@ Logo logo tem mais projetos em NLP.
 
 ## Projetos - Sentiment Analysis VADER
 
-| Projeto               | Link                                                |
+| Projeto               | Link do projeto                                              |
 | ----------------- | ---------------------------------------------------------------- |
 | Sentiment Analysis - ARTIGO SAS-CoV2-Covid19|[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Artigo%20an%C3%A1lise%20sentimento%20SAS-CoV-2%20Covid19.ipynb)|
 |Sentiment Analysis - SAS-CoV2-Covid19|[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Artigo%20an%C3%A1lise%20sentimento%20SAS-CoV-2%20Covid19.ipynb)|
