@@ -52,6 +52,8 @@ Logo logo tem mais projetos em NLP.
 | Sentiment Analysis - ARTIGO SAS-CoV2-Covid19|[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Artigo%20an%C3%A1lise%20sentimento%20SAS-CoV-2%20Covid19.ipynb)|
 |Sentiment Analysis - SAS-CoV2-Covid19|[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Model%20-%20Covid.ipynb)|
 | Sentiment Analysis - Airline |[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Sentiment%20Analysis%20VADER%20-%20Airline%20tweets.ipynb)|
+|Sentiment analysis climate|[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Sentiment%20analysis%20climate%20VADER.ipynb)|
+|sentiment analysis Pfizer|[Link](https://github.com/RafaelGallo/NLP---Sentiment-Analysis-VADER/blob/main/notebooks/Model_sentiment_analysis%20_Pfizer_VANDER.ipynb)|
 
 ## Variáveis de Ambiente
 
